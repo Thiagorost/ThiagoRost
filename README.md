@@ -11,9 +11,8 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/thiago-oliveira-5b86b8140/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a blank href="mailto:thiagorst.oliveira@gmail.com?subject=Olá%20Thiago" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.instagram.com/adityakamath__/">
-  <img align="left" alt="Aditya Kamath Instagram" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/instagram-main.svg" />
+  <a href="mailto:thiagorst.oliveira@gmail.com?subject=Olá%20Thiago" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.instagram.com/adityakamath__/"> <img  alt="Aditya Kamath Instagram" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/instagram-main.svg" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
