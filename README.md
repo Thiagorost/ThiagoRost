@@ -23,8 +23,8 @@
 <h5>UI Developer</h5>
 
 ### Programming Languages  :rocket:
-|<img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/Programming_languages/c.png" width=60> | <img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/Programming_languages/javascript.png" width=60> | <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/logo-html-5.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/phplogo.png" width=60> |<img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/dart.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|
+|<img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/Programming_languages/c.png" width=60> | <img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/Programming_languages/javascript.png" width=60> | <img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/Programming_languages/logo-html-5.png" width=60> |<img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/Programming_languages/dart.png" width=60> |
+|:---:|:---:|:---:|:---:|
 
 
 ### Tools :fire:
