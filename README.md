@@ -32,11 +32,13 @@
 |<img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/1200px-Android_Studio_icon.svg.png" width=60>| <img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/intellij-idea_logo_300x300.png" width=60>|   <img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/firebase.png" width=60> | <img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/25231.svg" width=60> |<img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/logo-stable.png" width=60> |<img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/flutter.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-<br>
+
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Thiagorost)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagorost&layout=compact)
 
+
+
 ### Connect with me 
 <a href="https://www.instagram.com/_thiago_tso/">
-  <img align="left" alt="Thiago Oliveira Instagram" width="21px" src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/connect_with_me_images/instagram.svg" />
+  <img align="left" alt="Thiago Oliveira Instagram" width="50px" src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/connect_with_me_images/instagram.svg" />
 </a>
