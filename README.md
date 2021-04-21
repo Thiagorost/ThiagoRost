@@ -31,8 +31,7 @@
 |<img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/1200px-Android_Studio_icon.svg.png" width=60>| <img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/intellij-idea_logo_300x300.png" width=60>|   <img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/firebase.png" width=60> | <img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/25231.svg" width=60> |<img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/logo-stable.png" width=60> |<img src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/tools/flutter.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Thiagorost)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagorost=compact)
-
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Thiagorost)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagorost&layout=compact)
 
 ### Connect with me :smiley:
 
