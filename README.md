@@ -37,8 +37,7 @@
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Thiagorost)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagorost&layout=compact)
 
 
-Connect with me:
-</a>
+###Connect with me:
 <a href="https://www.instagram.com/_thiago_tso/">
   <img align="left" alt="Thiago Oliveira Instagram" width="21px" src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/connect_with_me_images/instagram.svg" />
 </a>
