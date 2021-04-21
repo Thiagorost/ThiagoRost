@@ -38,5 +38,5 @@
 
 ### Connect with me 
 <a href="https://www.instagram.com/_thiago_tso/">
-  <img align="left" alt="Thiago Oliveira Instagram" width="21px" src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/connect_with_me_images/instagram.svg" />
+  <img align="left" alt="Thiago Oliveira Instagram" width="50px" src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/connect_with_me_images/instagram.svg" />
 </a>
