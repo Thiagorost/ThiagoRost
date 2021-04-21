@@ -12,8 +12,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/thiago-oliveira-5b86b8140/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:thiagorst.oliveira@gmail.com?subject=Olá%20Thiago" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.instagram.com/adityakamath__/"> <img  alt="Aditya Kamath Instagram" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/instagram-main.svg" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 </p>
 
@@ -38,5 +37,8 @@
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Thiagorost)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagorost&layout=compact)
 
 
-
-
+Connect with me:
+</a>
+<a href="https://www.instagram.com/_thiago_tso/">
+  <img align="left" alt="Thiago Oliveira Instagram" width="21px" src="https://github.com/Thiagorost/ThiagoRost/blob/main/images/connect_with_me_images/instagram.svg" />
+</a>
